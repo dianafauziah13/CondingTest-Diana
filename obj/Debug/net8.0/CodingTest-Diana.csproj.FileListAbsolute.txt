@@ -1,0 +1,14 @@
+D:\Project Luar\CodingTest-Diana\bin\Debug\net8.0\CodingTest-Diana.exe
+D:\Project Luar\CodingTest-Diana\bin\Debug\net8.0\CodingTest-Diana.deps.json
+D:\Project Luar\CodingTest-Diana\bin\Debug\net8.0\CodingTest-Diana.runtimeconfig.json
+D:\Project Luar\CodingTest-Diana\bin\Debug\net8.0\CodingTest-Diana.dll
+D:\Project Luar\CodingTest-Diana\bin\Debug\net8.0\CodingTest-Diana.pdb
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.AssemblyInfoInputs.cache
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.AssemblyInfo.cs
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.csproj.CoreCompileInputs.cache
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.dll
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\refint\CodingTest-Diana.dll
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.pdb
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\CodingTest-Diana.genruntimeconfig.cache
+D:\Project Luar\CodingTest-Diana\obj\Debug\net8.0\ref\CodingTest-Diana.dll
